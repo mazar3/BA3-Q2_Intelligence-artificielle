@@ -1,7 +1,3 @@
-Projet/unity_video_detected.mp4
-Projet/unity_video_segmented.mp4
-Projet/unity_video_classified.mp4
-Projet/unity_video_classified_edited.mp4
-Projet/v1 old/unity_video_classified.mp4
-Projet/v1 old/unity_video_detected.mp4
-Projet/v1 old/unity_video_segmented.mp4
+*.mp4
+Projet/v1 old/target/
+.DS_Store
